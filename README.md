@@ -1,2 +1,9 @@
-# fast-api-pg_admin-template
-A repository with the template for fastapi application. Good for a quick setup of the fastapi application
+# FastAPI/React application
+A template repository that I use for my projects. 
+Backend: 
+  - framework: FastAPI
+  - database: postgresql
+  - migrations: alembic
+
+Frontend:
+  - React + JS
