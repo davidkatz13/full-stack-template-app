@@ -1,0 +1,5 @@
+backend/.env
+backend/Pipfile
+backend/Pipfile.lock
+backend/alembic/versions
+backend/__pycache__
